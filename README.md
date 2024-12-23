@@ -23,3 +23,6 @@ python test_quant_tome_test.py --model deit_tiny_16_imagenet \
     --ldr 0 \
     --ratio 2 1 2 1 2 1 2 1 2 1 2 1
 ```
+
+# Result 
+![image](https://github.com/user-attachments/assets/c1609a83-df86-41cd-a519-53703c6d431b)
