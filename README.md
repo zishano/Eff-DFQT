@@ -10,7 +10,7 @@ One high-end GPU for inference such as an RTX 3090
 # Model Quantization
   - Example: Quantize (W8/A8) DeiT/16-Base with inverted data (Eff-DFQT).
 ```
-python test_quant_tome_test.py --model deit_tiny_16_imagenet \
+python test_quant_tome_test.py --model deit_base_16_imagenet \
     --prune_it 50 100 200 300 \
     --prune_ratio 0.3 0.3 0.3 0.3 \
     --dataset ../data/imagenet \
