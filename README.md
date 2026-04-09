@@ -29,6 +29,9 @@ python test_quant_tome_test.py --model deit_base_16_imagenet \
     --ratio 2 1 2 1 2 1 2 1 2 1 2 1
 ```
 
+# Result 
+![image](https://github.com/user-attachments/assets/c1609a83-df86-41cd-a519-53703c6d431b)
+
 ## BibTex
 ```bash
 @inproceedings{li2025eff,
@@ -41,5 +44,14 @@ python test_quant_tome_test.py --model deit_base_16_imagenet \
 }
 ```
 
-# Result 
-![image](https://github.com/user-attachments/assets/c1609a83-df86-41cd-a519-53703c6d431b)
+## Acknowledge
+```bash
+@inproceedings{
+hu2024sparse,
+title={Sparse Model Inversion: Efficient Inversion of Vision Transformers for Data-Free Applications},
+author={Zixuan Hu and Yongxian Wei and Li Shen and Zhenyi Wang and Lei Li and Chun Yuan and Dacheng Tao},
+booktitle={Forty-first International Conference on Machine Learning},
+year={2024},
+url={https://openreview.net/forum?id=T0lFfO8HaK}
+}
+```
