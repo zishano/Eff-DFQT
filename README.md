@@ -26,7 +26,7 @@ python test_quant_tome_test.py --model deit_base_16_imagenet \
     --val-batchsize 50 \
     --gpu 0 \
     --ldr 0 \
-    --ratio 2 1 2 1 2 1 2 1 2 1 2 1
+    --ratio 1 1 1 1 1 1 1 1 1 1 1 1
 ```
 
 # Result 
