@@ -29,9 +29,6 @@ python test_quant_tome_test.py --model deit_base_16_imagenet \
     --ratio 1 1 1 1 1 1 1 1 1 1 1 1
 ```
 
-# Result 
-![image](https://github.com/user-attachments/assets/c1609a83-df86-41cd-a519-53703c6d431b)
-
 ## BibTex
 ```bash
 @inproceedings{li2025eff,
